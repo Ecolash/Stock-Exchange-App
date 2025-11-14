@@ -1,4 +1,4 @@
-# 📈 Temporal Database: Stock Exchange Web Application using TimescaleDB
+# 📈 Stock Exchange Web Application using TimescaleDB
 
 A real-time stock trading and analysis platform built using modern technologies like TimescaleDB, Redis, WebSockets, and React. Inspired by professional platforms such as Binance, the application enables efficient trading, live order book management, and real-time charting with low-latency performance.
 
