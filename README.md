@@ -2,11 +2,11 @@
 
 A real-time stock trading and analysis platform built using modern technologies like TimescaleDB, Redis, WebSockets, and React. Inspired by professional platforms such as Binance, the application enables efficient trading, live order book management, and real-time charting with low-latency performance.
 
-> Developed by Group SQLite  
-> 👤 Tuhin Mondal [22CS10087]  
-> 👤 Diganta Mandal [22CS30062]  
-> 👤 Antik Sur [22CS10085]
-
+## 👥 Developed By — Group *SQLite*
+### 🧑‍💻 Team Members
+- **Tuhin Mondal** — `22CS10087`
+- **Diganta Mandal** — `22CS30062`
+- **Antik Sur** — `22CS10085`
 ---
 
 ## 🚀 Features
