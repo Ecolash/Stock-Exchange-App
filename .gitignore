@@ -1,0 +1,38 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Next.js
+.next/
+/.next/
+
+# Environment files
+.env
+.env.*
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Mac
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Docker
+docker-compose.override.yml

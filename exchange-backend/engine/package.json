@@ -1,0 +1,21 @@
+{
+  "name": "engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "WITH_SNAPSHOT=true node dist/index.js",
+    "dev": "npm run build && WITH_SNAPSHOT=true npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  }
+}
