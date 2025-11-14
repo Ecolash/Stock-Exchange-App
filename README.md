@@ -101,7 +101,15 @@ The system follows a two-tiered architecture inspired by memory hierarchies — 
 
 ## 📚 References
 
+- [TimescaleDB Docs](https://docs.timescale.com/)
+- [Redis Pub/Sub](https://redis.io/docs/latest/develop/interact/pubsub/)
+- [Binance API](https://www.binance.com/en-IN/binance-api)
+- [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+- [lightweight-charts](https://www.tradingview.com/chart/)
+- [Next.js Docs](https://nextjs.org/docs)
+- [Docker Compose Docs](https://docs.docker.com/compose/install/)
 
+---
 
 ## 🧭 Setup & Run
 
@@ -163,13 +171,8 @@ Environment variables
 cp .env.example .env
 # then edit .env to set DB/Redis credentials
 ```
+---
 
-Troubleshooting
-- If a service fails to start, check logs and ensure Redis/Postgres are reachable.
-- If TypeScript build errors appear in `exchange-backend/api`, run `npm run build` manually to see compiler output.
-
-Further notes
-- This README contains high-level instructions. Individual packages may have additional README files with service-specific environment variables and configuration.
-
+## 📄 License
 
 This project is for educational and demonstration purposes. Contact the authors for reuse or extension.
